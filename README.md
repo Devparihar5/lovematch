@@ -12,7 +12,7 @@ pip install lovematch
 ## Usage
 ### You can use lovematch in your Python code as follows:
 
-```
+```python
 from lovematch.friendship import calculate_frindship_match_percentage
 from lovematch.love import calculate_love_match_percentage
 
