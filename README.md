@@ -8,9 +8,14 @@ You can install `lovematch` using pip, the Python package manager:
 
 ```bash
 pip install lovematch
+```
 
 ## Usage
 ### You can use lovematch in your Python code as follows:
+
+
+
+
 
 ```python
 from lovematch.friendship import calculate_frindship_match_percentage
